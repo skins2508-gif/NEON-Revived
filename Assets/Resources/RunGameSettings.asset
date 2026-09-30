@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92bb4a7c4d4e4ede982619f1ead8cd84, type: 3}
+  m_Name: RunGameSettings
+  m_EditorClassIdentifier: Assembly-CSharp::RunGameSettings
+  playerObjectName: Player
+  fullTrack: {fileID: 8300000, guid: 8552bbef5878c5641b3b4aa3062bcae1, type: 3}
+  menuMoveSound: {fileID: 8300000, guid: 854bd1ba016d5c8428fb22a8036929e3, type: 3}
+  menuSelectSound: {fileID: 8300000, guid: ac7c3e68219df9e4badfe0444e6a1ea6, type: 3}
+  defaultCharacterSprite: {fileID: 3166883213903064718, guid: 27d4b66b4ae93424c9afc55e18b9951f, type: 3}
+  menuMusicVolume: 0.1
+  longNoteSliderTexture: {fileID: 2800000, guid: 235029abfca2413fa12da8b0688e6432, type: 3}
+  chargeFrameTexture: {fileID: 2800000, guid: a906a3537acf4615a776072dd9f80d59, type: 3}
+  chargeFillTexture: {fileID: 2800000, guid: 67d0aa6c4f0047edae2b3d1f8b98b52a, type: 3}
+  chargeCurrentTexture: {fileID: 2800000, guid: 378a6618dd7e4018ad8618e195991ca8, type: 3}
+  longNotePlayerSprite: {fileID: 3166883213903064718, guid: 6d4705ea79d848f79446427a8834cf27, type: 3}

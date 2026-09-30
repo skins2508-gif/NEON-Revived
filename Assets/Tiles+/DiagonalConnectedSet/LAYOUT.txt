@@ -1,0 +1,7 @@
+Place all four tiles without gaps:
+
+A B
+C D -> horizontal tile 228
+
+B and C fill the diagonal edges; do not leave these cells empty.
+Each tile is 64 pixels at 64 PPU = 1 Unity unit.
